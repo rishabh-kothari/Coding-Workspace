@@ -1,4 +1,4 @@
-# wkspace
+# Workspace
 
 Online competitive programming workspace, built with a MongoDB/Node/Express/React stack.
 
